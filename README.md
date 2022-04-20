@@ -103,3 +103,34 @@
 [Github](https://github.com/plasmoapp/matter)<br>
 **下载**<br>
 [Jenkins](https://matter.plo.su/job/Matter-1.18/)
+# Glowstone
+在不使用Minecraft源码的情况下实现的服务端,不具有原版特性,兼容Bukkkit,但不能使用OBC或NMS<br>
+**官方**<br>
+[Glowstone](https://glowstone.net/) |
+[Github](https://github.com/GlowstoneMC/Glowstone/)<br>
+**下载**<br>
+[Glowstone](https://glowstone.net/) |
+[Github](https://github.com/GlowstoneMC/Glowstone/releases/tag/2021.8.0)
+# TacoSpigot
+基于Paper的一个不受支持和未维护的分支<br>
+**官方**<br>
+[Github](https://github.com/TacoSpigot/TacoSpigot)<br>
+# NachoSpigot
+基于TacoSpigot的核心,用于1.8.8<br>
+**官方**<br>
+[Github](https://github.com/CobbleSword/NachoSpigot)<br>
+**Argarian的分支版本**<br>
+[Github](https://github.com/Argarian-Network)
+# WindSpigot
+适合于1.8PVP服务器的核心,专注于提高整体服务器性能和PVP机制,基于NachoSpigot<br>
+**官方**<br>
+[Github](https://github.com/Wind-Development/WindSpigot)<br>
+# CloudSpigot
+基于Paper的优化版核心,适用于1.8,已经停更<br>
+**官方**<br>
+[Github](https://github.com/Linux4/CloudSpigot)<br>
+**注:此核心已经完全停更**
+# Obsidian
+使用 C# .NET 6 实现的基于Minecraft服务器协议的核心,或者说用C#写了个服务器核心<br>
+**官方**<br>
+[Github](https://github.com/ObsidianMC/Obsidian)<br>
