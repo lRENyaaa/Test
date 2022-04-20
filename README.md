@@ -56,7 +56,7 @@
 [Github](https://github.com/YatopiaMC/Yatopia)<br>
 **注:Yatopia已经完全停更,请不要使用,原因请看[这里](https://kennytv.github.io/Yaptapia/),你可以选择[Sugarcane](https://github.com/SugarcaneMC/Sugarcane)做为替代品**
 # Mirai
-基于Pufferfish的优化版核心,同时加入了大量来自各类服务端和模组的优化,不适用于生产环境,稳定性查<br>
+基于Pufferfish的优化版核心,同时加入了大量来自各类服务端和模组的优化,不适用于生产环境,稳定性差<br>
 **官方**<br>
 [Github](https://github.com/etil2jz/Mirai)<br>
 **下载**<br>
